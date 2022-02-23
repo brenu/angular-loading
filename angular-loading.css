@@ -24,7 +24,7 @@
 }
 
 .dw-loading.dw-loading-overlay {
-    background-color: rgba(255, 255, 255, .7);
+    background-color: #2e6da4ee;
     z-index: 9999;
 }
 

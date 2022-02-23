@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/darthwade/angular-loading.git"
+    "url": "https://github.com/brenu/angular-loading.git"
   },
   "dependencies": {},
   "devDependencies": {
@@ -20,7 +20,7 @@
     "grunt-shell": "^1.1.2"
   },
   "engines": {
-    "node": ">=0.8.0"
+    "node": ">=16.13.2"
   },
   "scripts": {
     "test": "grunt test"
